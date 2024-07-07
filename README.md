@@ -17,7 +17,7 @@ This Python tool detects various network attacks including ARP spoofing.
 1. Clone the repository:
    ```bash
    pip install colorama
-   pip instal scapy
+   pip install scapy
    git clone https://github.com/ikramulmolla/Network-Attack-Detection.git
    cd Network-Attack-Detection
    python3 netdetect.py
